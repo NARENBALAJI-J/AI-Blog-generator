@@ -1,1 +1,1 @@
-This file is for learning git add and commit.
+This file contains notes related to Git operations.
